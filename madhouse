@@ -1,0 +1,5 @@
+<script>
+function changetext(id){
+	id.innerHTML="Ooops!";
+}
+</script>
