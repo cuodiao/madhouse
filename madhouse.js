@@ -5,9 +5,9 @@
 var myImage = document.getElementById("myImage");
 
 var imageArray = [
-"images/zhongjian2.jpg",
-"images/zhongjian1.jpg",
-"images/zhongjian1.jpg",
+"zhongjian2.jpg",
+"zhongjian1.jpg",
+"zhongjian1.jpg",
 "images/zhongjian2.jpg",
 "images/zhongjian2.jpg",
 "images/zhongjian3.jpg",
